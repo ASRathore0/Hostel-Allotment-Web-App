@@ -1,4 +1,4 @@
-{
+{ "homepage": "https://ASrathore0.github.io/Hostel-Allocation-Web-App",
   "name": "hostel-room-allocation-system",
   "private": true,
   "version": "0.1.0",
@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "lucide-react": "^0.344.0",
