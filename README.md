@@ -23,7 +23,7 @@ An end-to-end web application that streamlines the process of hostel room alloca
 
 ## 📸 Demo
 
-> Coming soon (you can host it with Vercel or Render and add the link here)
+https://asrathore0.github.io/Hostel-Allotment-Web-App/
 
 ---
 
